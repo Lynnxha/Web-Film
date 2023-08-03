@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta name="description" content="Web Project Film API +JS">
+    <title>✨ Web Film Project ✨</title>
+
+    <!-- Font Google -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <!-- 👇 css code file 👇 -->
+    <link rel="stylesheet" href="./assets/css/style.css"/>
+    <!-- Js Code File -->
+    <script src="./assets/js/global.js" defer></script>
+    <script src="./assets/js/index.js" type="module"></script>
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="header">
+
+        <a href="./index.html" class="logo">
+            <img src="./assets/images/logo.svg" width="140" height="32" alt="Lynn Web Film">
+        </a>
+
+        <div class="search-box" search-box>
+            <div class="search-wrapper" search-wrapper>
+                <input type="text" name="search" aria-label="search movies" placeholder="Search Any Movie...." autocomplete="off" class="search-field" search-field>
+
+                <img src="./assets/images/search.png" width="24" height="24" alt="search" class="leading-icon">
+            </div>
+
+            <button class="search-btn" search-toggler>
+                <img src="./assets/images/close.png" width="24" height="24" alt="close search box">
+            </button>
+        </div>
+
+        <div class="search-btn" search-toggler menu-close>
+            <img src="./assets/images/search.png" width="24" height="24" alt="open search box">
+        </div>
+
+        <button class="menu-btn active" menu-btn menu-toggler>
+            <img src="./assets/images/menu.png" width="24" height="24" alt="open menu" class="menu">
+            <img src="./assets/images/menu-close.png" width="24" height="24" alt="close-menu" class="close">
+        </button>
+
+    </header>
+
+
+    <!-- Sidebar -->
+    <nav class="sidebar" sidebar>
+        <div class="sidebar-inner">
+
+            <div class="sidebar-list">
+
+                <p class="title">Genre</p>
+
+               <a href="./movie-list.html" menu-close class="sidebar-link"></a>
+
+            </div>
+
+        </div>
+    </nav>
+    
+</body>
+</html>
