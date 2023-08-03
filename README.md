@@ -10,9 +10,9 @@
     An Awesome ReadME Generator To Jumpstart Your Projects!
     <br/>
     <br/>
-    <a href="https://github.com///issues">Report Bug</a>
+    <a href="https://github.com/Lynnxha/Web-Film/issues">Report Bug</a>
     .
-    <a href="https://github.com///issues">Request Feature</a>
+    <a href="https://github.com/Lynnxha/Web-Film/issue">Request Feature</a>
   </p>
 </p>
 
