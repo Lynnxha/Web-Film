@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="https://github.com//">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Lynnxha">
+    <img src="https://raw.githubusercontent.com/ShaanCoding/ReadME-Generator/main/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">WEB FILM WITH API & PLAIN JS</h3>
