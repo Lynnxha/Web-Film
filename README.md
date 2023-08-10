@@ -20,7 +20,7 @@
 
 ## About The Project
 
-![Screen Shot](https://telegra.ph/file/c2efaa73415a35d482349.png)
+![Screen Shot](https://telegra.ph/file/263c63ef9b25f349a6ec4.png)
 
 I made this project because I was just having fun
 
